@@ -9,3 +9,4 @@ trustme==0.6.0
 cryptography==3.3.2
 python-dateutil==2.8.1
 typing-extensions==3.7.4.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
